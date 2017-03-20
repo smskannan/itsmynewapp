@@ -1,0 +1,98 @@
+#EXTM3U 
+
+
+#EXTINF:-1,Channels:Adithya
+http://streams.cdn0077.com/india_ws3769/adithiyaINDIA/chunks.m3u8
+
+#EXTINF:-1,Channels:KTV HD
+http://streams.cdn0077.com/india_ws3769/ktvINDIA/playlist.m3u8
+
+#EXTINF:-1,Channels:SunLife
+http://176.31.232.47:8081/apkland_live/playlistfe/playlist.m3u8
+
+#EXTINF:-1,Channels:SunTV
+http://176.31.232.47:8081/apkland_live/suntv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE2IDExOjA0OjM5IEFNJmhhc2hfdmFsdWU9NERsTXRDNmNaa0ZpOGhncjMzZEU0Zz09JnZhbGlkbWludXRlcz01
+
+#EXTINF:-1,Channels:SunTV
+http://176.31.232.47:8081/apkland_live/suntv1/chunks.m3u8?nimblesessionid=1566395&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE2IDc6MjM6NTkgQU0maGFzaF92YWx1ZT11alRDQUlNelJVRXlONlVJcnI5WVFRPT0mdmFsaWRtaW51dGVzPTU=
+
+#EXTINF:-1,Channels:VijayTV
+http://tamilhdtv.net/tv/channels/view.php?ch=Sun%20Music%20HD
+
+#EXTINF:-1,Channels:Puthiyathalamurai
+http://dzamqgwxt2cln.cloudfront.net/httporg/pttv/chunklist_w1017380575.m3u8
+
+#EXTINF:-1,Channels:Vasantham
+rtmp://mediacp2.comcities.com:1935/itn-vasantham/itn-vasantham
+
+
+#EXTINF:-1,Channels:Captain TV
+http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8
+
+
+#EXTINF:-1,Channels:Captain News
+http://edge.purplestream.com/live/captain/amlst:captainnews/playlist.m3u8
+
+#EXTINF:-1,Channels:Dheeran TV
+http://edge.purplestream.com/live/dhtv/amlst:dheetv/playlist.m3u8
+
+#EXTINF:-1,Channels:News 7
+http://edge.purplestream.com/live/ns7/amlst:news7/playlist.m3u8
+
+
+#EXTINF:-1,Channels:Vimbam TV
+rtmp://91.219.43.148:1935/vimbamtv/vimbamtv
+
+#EXTINF:-1,Channels:Tamilan TV
+http://38.96.175.192:1943/live/tamilantelevision1/playlist.m3u8
+
+#EXTINF:-1,Channels:Thanthi TV
+http://d30zz3d0a9ty3e.cloudfront.net/httporg/thanthi_450/playlist.m3u8
+
+#EXTINF:-1,Channels:Imayam TV
+rtmp://cp.akamain.info:1935/imayamtv/imayamtv
+
+
+#EXTINF:-1,Channels:Jaya Plus
+rtmp://78.46.17.7:1935/live/myStream.sdp
+
+
+#EXTINF:-1,Channels:Channel UFX
+rtmp://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp
+
+
+#EXTINF:-1,Channels:Public TV
+rtmp://streamer.vidgyor.com:1935/publictv/live
+
+
+#EXTINF:-1,Channels:Daiji World
+rtmp://live.wmncdn.net/daijiworld24x7/9e8d2ee8ddf0223a8a2c0b78cc58d555.sdp
+
+
+
+#EXTINF:-1,Channels:Puthuyugam
+http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8
+
+
+#EXTINF:-1,Channels:Vendar TV
+rtmp://stream.waxcloud.com/gladston-live/play/mp4:vendhartv
+
+
+
+#EXTINF:-1,Channels:Vasanth TV
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w1738448578.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f&time=1429769547718
+
+
+
+#EXTINF:-1,Channels:Tamil Aruvi
+http://91.82.85.44:1935/scr8174/lives078.sdp/playlist.m3u8?wowzasessionid=1872784777
+
+
+#EXTINF:-1,Channels:Namma Kudla
+http://livestream.webtvindia.in/nammakudla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+
+
+
+
+
