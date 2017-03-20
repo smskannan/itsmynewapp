@@ -1,8 +1,8 @@
 #EXTM3U 
 
 
-#EXTINF:-1,Channels:Adithya
-http://streams.cdn0077.com/india_ws3769/adithiyaINDIA/chunks.m3u8
+#EXTINF:-1,Channels:Travel
+http://78.26.128.94:7321/index.php?channel=221
 
 #EXTINF:-1,Channels:KTV HD
 http://streams.cdn0077.com/india_ws3769/ktvINDIA/playlist.m3u8
