@@ -4,8 +4,8 @@
 #EXTINF:-1,Channels:Travel
 http://78.26.128.94:7321/index.php?channel=221
 
-#EXTINF:-1,Channels:KTV HD
-http://streams.cdn0077.com/india_ws3769/ktvINDIA/playlist.m3u8
+#EXTINF:-1,Channels:Travel HD
+http://31.13.223.103:1935/travel/community.stream/playlist.m3u8 
 
 #EXTINF:-1,Channels:SunLife
 http://176.31.232.47:8081/apkland_live/playlistfe/playlist.m3u8
