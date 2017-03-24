@@ -7,8 +7,8 @@ http://78.26.128.94:7321/index.php?channel=221
 #EXTINF:-1,Channels:Travel HD
 http://31.13.223.103:1935/travel/community.stream/playlist.m3u8 
 
-#EXTINF:-1,Channels:SunLife
-http://176.31.232.47:8081/apkland_live/playlistfe/playlist.m3u8
+#EXTINF:-1,Channels:Discovery
+http://149.202.200.137:8080/discovery/index.m3u8
 
 #EXTINF:-1,Channels:SunTV
 http://176.31.232.47:8081/apkland_live/suntv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE2IDExOjA0OjM5IEFNJmhhc2hfdmFsdWU9NERsTXRDNmNaa0ZpOGhncjMzZEU0Zz09JnZhbGlkbWludXRlcz01
